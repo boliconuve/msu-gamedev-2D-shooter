@@ -1,2 +1,2 @@
 # msu-gamedev-2D-shooter
- A 2D shooter made in Unity 3D.
+I created a 2D shooter game made in Unity 3D.
