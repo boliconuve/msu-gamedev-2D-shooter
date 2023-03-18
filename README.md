@@ -1,4 +1,4 @@
-# msu-gamedev-2D-shooter
+# Terra Defenders - 2D Shooter
 I have created a 2D shooter game made in Unity 3D.
 
 My main goal with this project is to learn and apply art, design and programming concepts. I made this approach to grow my knowledge within my chosen discipline, while art, design and code come together to make a game. To become a better game developer.
